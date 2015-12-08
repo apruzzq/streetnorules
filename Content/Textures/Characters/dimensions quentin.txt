@@ -1,0 +1,51 @@
+idle
+0
+90 201 9
+
+walking
+201
+110 212 9
+
+saut
+413
+90 306 10 6
+
+attaque 1
+719
+147 206 6 4
+
+attaque 2
+925
+150 209 5 3
+
+tombe
+0
+208 205 17
+
+se relève
+410
+205 185 13
+
+recoit coup
+818
+110 211 6
+
+coup de pieds sauté
+1028
+145 120 3
+
+attaque 3
+1148
+173 207 6 3
+
+ramasse objet
+1355
+113 232 11 5
+
+coup de pied poubelle
+1587
+125 195 10 5
+
+lance couteau
+1782
+189 223 4 3

@@ -1,0 +1,64 @@
+idle
+max hauteur: 225
+max largeur: 105
+frame y : 0
+
+marche
+max hauteur : 225
+max largeur : 100
+frame y : 225
+
+saute
+max hauteur : 268
+max largeur :83
+frame y : 450
+
+attaque 1
+max hauteur : 225
+max largeur : 112
+frame y : 720
+
+attaque 2 
+max hauteur : 225
+max largeur : 161
+frame y : 945
+
+tombe
+max hauteur: 225
+max largeur: 216
+frame y : 0
+
+se releve
+max hauteur: 225
+max largeur: 180
+frame y : 225
+
+recoit coup
+max hauteur: 225
+max largeur: 108
+frame y : 450
+
+saut et tape
+max hauteur: 270
+max largeur: 169
+frame y : 675
+
+combo3
+max hauteur: 225
+max largeur: 151
+frame y : 945
+
+ramasse objet
+max hauteur: 225
+max largeur: 90
+frame y : 1170
+
+tape poubelle
+max hauteur: 225
+max largeur: 162
+frame y : 1395
+
+lance objet
+max hauteur: 225
+max largeur: 145
+frame y : 1620
